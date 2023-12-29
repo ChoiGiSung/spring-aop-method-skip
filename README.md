@@ -1,2 +1,2 @@
-# spring-aop-skip-method
-skip method
+# spring-aop-method-skip
+method skip
